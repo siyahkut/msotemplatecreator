@@ -15,7 +15,7 @@ using System.Text.RegularExpressions;
 // odt-> docx converting wanted cli_* dll needed
 // doc -> docx converting wanted Interop.Word & excel needed
 
-namespace billtool
+namespace msotempcreator
 {
     class DocTemplateOut : TemplateOut
     {
